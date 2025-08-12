@@ -56,7 +56,8 @@ img: "supergril.png",
 title: "SUPERGIRL: WOMAN OF TOMORROW #1 ARABIC
  VERSION",
 file: "https://www.mediafire.com/file/ftcfoimost6ht09/Supergirl_-_Woman_of_Tomorrow_01_%25282021%2529_Arabic_-_Souhail_%2526_Ayoub_Zouili_%255BAZ-Comics%255D.cbr/file",
-}
+type: "new"
+},
 
     {
       img: "img/page1.jpg", 
@@ -757,4 +758,5 @@ function showNotification(message) {
         setTimeout(() => loader.style.display = "none", 500); // بعد ما يخلص الانيميشن
       }
     }, 2000); // 3000 ملي ثانية = 3 ثواني
+
   });
