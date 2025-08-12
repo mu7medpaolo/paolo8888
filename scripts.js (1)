@@ -51,6 +51,13 @@ const COMICS_DATA = {
       file: "https://www.mediafire.com/file/0wgy9e1r9kudjg2/Thunderbolts_-_Doomstrike_001_%25282025%2529_%2528Digital%2529_%2528Shan-Empire%2529.cbz/file",
       type: "new"
     },
+{
+img: "supergril.png",
+title: "SUPERGIRL: WOMAN OF TOMORROW #1 ARABIC
+ VERSION",
+file: "https://www.mediafire.com/file/ftcfoimost6ht09/Supergirl_-_Woman_of_Tomorrow_01_%25282021%2529_Arabic_-_Souhail_%2526_Ayoub_Zouili_%255BAZ-Comics%255D.cbr/file",
+}
+
     {
       img: "img/page1.jpg", 
       title: "ستيفن البطل العدد لاول", 
